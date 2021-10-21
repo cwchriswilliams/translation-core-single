@@ -8,3 +8,5 @@ Tests do not currently pass.
 
 - Fix tests
 - Migrate tests from midje
+- Remove hardcoded paths
+- Add homepage
